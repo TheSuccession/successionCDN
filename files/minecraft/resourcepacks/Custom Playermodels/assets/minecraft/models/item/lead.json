@@ -6,13 +6,13 @@
 	
 	"overrides": [
 		{"predicate": {"custom_model_data":1}, "model": "players/essentuan"},
-		{"predicate": {"custom_model_data":2}, "model": "players/bartender"},
+		{"predicate": {"custom_model_data":2}, "model": "players/minemaster836"},
 		{"predicate": {"custom_model_data":3}, "model": "players/castleplayers/jackal"},
 		{"predicate": {"custom_model_data":4}, "model": "players/castleplayers/guard"},
 		{"predicate": {"custom_model_data":5}, "model": "players/castleplayers/gatekeeper"},
 		{"predicate": {"custom_model_data":6}, "model": "players/castleplayers/grannygravels"},
 		{"predicate": {"custom_model_data":7}, "model": "players/castleplayers/meetroom"},
 		{"predicate": {"custom_model_data":8}, "model": "players/castleplayers/gardener"},
-		{"predicate": {"custom_model_data":9}, "model": "players/castleplayers/minemaster836"}
+		{"predicate": {"custom_model_data":8}, "model": "players/castleplayers/bartender"}
 	]
 }
