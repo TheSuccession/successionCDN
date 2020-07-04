@@ -12,7 +12,7 @@
 		{"predicate": {"custom_model_data":5}, "model": "players/castleplayers/gatekeeper"},
 		{"predicate": {"custom_model_data":6}, "model": "players/castleplayers/grannygravels"},
 		{"predicate": {"custom_model_data":7}, "model": "players/castleplayers/meetroom"},
-		{"predicate": {"custom_model_data":9}, "model": "players/castleplayers/gardener"},
-		{"predicate": {"custom_model_data":8}, "model": "players/castleplayers/minemaster836"}
+		{"predicate": {"custom_model_data":8}, "model": "players/castleplayers/gardener"},
+		{"predicate": {"custom_model_data":9}, "model": "players/castleplayers/minemaster836"}
 	]
 }
