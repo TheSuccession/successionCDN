@@ -14,6 +14,6 @@
 		{"predicate": {"custom_model_data":7}, "model": "players/castleplayers/meetroom"},
 		{"predicate": {"custom_model_data":8}, "model": "players/castleplayers/gardener"},
 		{"predicate": {"custom_model_data":9}, "model": "players/castleplayers/bartender"},
-		{"predicate": {"custom_model_data":10}, "model": "players/castleplayers/philistus"}
+		{"predicate": {"custom_model_data":10}, "model": "players/castleplayers/waterboy"}
 	]
 }
